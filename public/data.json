@@ -1,0 +1,83 @@
+[
+  {
+    "id":1,
+    "title": "Oh my Deer",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$14.99",
+    "image": "image1.png",
+    "product-number": 100
+  },
+  {
+    "title": "Awaken the Hero",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$17.59",
+    "id":2,
+    "image": "image2.png",
+    "product-number": 101
+  },
+  {
+    "title": "Oh my Deer",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$8.99",
+    "id":3,
+    "image": "image3.png",
+    "product-number": 102
+  },
+  {
+    "title": "Ravenna",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$22.99",
+    "id":4,
+    "image": "image3.png",
+    "product-number": 103
+  },
+  {
+    "title": "Caribou",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$22.99",
+    "id":5,
+    "image": "image5.png",
+    "product-number": 104
+  },
+  {
+    "title": "Aqualung",
+    "by":  "by Artist",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$22.99",
+    "id":6,
+    "image": "image6.png",
+    "product-number": 105
+  },
+  {
+    "title": "Strange to ears",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$22.99",
+    "id":7,
+    "image": "image7.png",
+    "product-number": 106
+  },
+  {
+    "title": "Ravenna",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu.",
+    "":"$22.99",
+    "id":8,
+    "image": "image8.png",
+    "product-number": 107
+  },
+  {
+    "title": "Strange to ears",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu. ",
+    "price":"$22.99",
+    "id":9,
+    "image": "image7.png",
+    "product-number": 108
+  },
+  {
+    "title": "Ravenna",
+    "text": "Lorem ipsum dolor sit amet, conadipiscing elit, sed diam nonu.",
+    "":"$22.99",
+    "id":10,
+    "image": "image8.png",
+    "product-number": 109
+  }
+]
